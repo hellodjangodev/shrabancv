@@ -1,16 +1,26 @@
+/*section-2:-Customization of "Hello everybody section*/
+/*text alignment*/
+/*start*/
 .jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
 }
+/*end*/
 
+
+/*section-1:-navigation bar */
+/*margin defination*/
+/*start*/
 .navbar {
     margin-bottom: 0px;
     border: 1px solid transparent;
 }
+/*end*/
 
-
-
+/*description section alignment*/
+/*start*/
 .shdescription
 {
 	text-align: center;
 }
+/*end*/
