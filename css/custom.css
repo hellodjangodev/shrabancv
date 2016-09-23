@@ -19,25 +19,40 @@
 
 /*description section alignment*/
 /*start*/
-.shdescription
-{
+.shdescription{
 	text-align: center;
+	max-width: 1000px;
+	margin-left:172px;
+	margin-right:172px;
+
 }
-/*end*/
-.shabt
-{
+/*about page setup*/
+.shabt{
 	text-align: left;
 	font-family: 'David Libre', serif;
 	font-size: 15px;
 }
 
-/**/
-.socialnetwork
-{
+/*about page setup finish*/
+
+/*social network section txt align*/
+.socialnetwork{
     text-align: center;
 }
-/**/
-.rowr
-{
-	text-align: left;
+/*txt aligned*/
+
+.hello{
+	font-size: 15px;
+	max-width: 1000px;
+	margin-left:172px;
+	margin-right:172px;
+	text-align:center;
+}
+.whatt{
+	font-size: 15px;
+	max-width: 1000px;
+	margin-left:172px;
+	margin-right:172px;
+	text-align:center;
+
 }
